@@ -180,3 +180,73 @@ Repository | Description
 Repository | Description
 ---- | ---- 
 [**Awesome Cryptography**](https://github.com/sobolevn/awesome-cryptography)    | A curated list of cryptography resources and links.
+
+
+
+## Operating Systems
+
+### Penetration testing and security lab Operating Systems*
+
+* [Android Tamer](https://androidtamer.com/) - Based on Debian.
+* [BackBox](https://backbox.org/) - Based on Ubuntu.
+* [BlackArch Linux](https://blackarch.org/) - Based on Arch Linux.
+* [Fedora Security Lab](https://labs.fedoraproject.org/security/) - Based on Fedora.
+* [Kali Linux](https://www.kali.org/) - Based on Debian.
+* [Parrot Security OS](https://www.parrotsec.org/) - Based on Debian.
+* [Pentoo](http://www.pentoo.ch/) - Based on Gentoo.
+* [URIX OS](http://urix.us/) - Based on openSUSE.
+* [Wifislax](http://www.wifislax.com/) - Based on Slackware.
+
+### Malware analysts and reverse-engineering*
+
+- [Flare VM](https://github.com/fireeye/flare-vm/) - Based on Windows.
+- [REMnux](https://remnux.org/) - Based on Debian.
+
+
+
+## Collections of installer scripts, useful tools
+
+* [CTF Tools](https://github.com/zardus/ctf-tools) - Collection of setup scripts to install various security research tools.
+* [LazyKali](https://github.com/jlevitsk/lazykali) - A 2016 refresh of LazyKali which simplifies install of tools and configuration.
+
+
+## General Wargames
+
+* [PicoCTF](https://picoctf.com)
+* [TryHackMe](https://tryhackme.com)
+* [HackTheBox](https://hackthebox.eu)
+* [VulnHub](https://www.vulnhub.com/)
+* [CTFLearn](https://ctflearn.com)
+* [Pentesterlab](https://pentesterlab.com/) 
+* [Proving grounds](https://portal.offensive-security.com/proving-grounds/play)
+* [Backdoor](https://backdoor.sdslabs.co/) - Security Platform by SDSLabs.
+* [Crackmes](https://crackmes.one/) - Reverse Engineering Challenges.
+* [CryptoHack](https://cryptohack.org/) - Fun cryptography challenges.
+* [echoCTF.RED](https://echoctf.red/) - Online CTF with a variety of targets to attack.
+* [Exploit.Education](http://exploit.education) - Variety of VMs to learn variety of computer security issues.
+* [Gracker](https://github.com/Samuirai/gracker) - Binary challenges having a slow learning curve, and write-ups for each level.
+* [Hack This Site](https://www.hackthissite.org/) - Training ground for hackers.
+* [Hacker101](https://www.hacker101.com/) - CTF from HackerOne
+* [Hacking-Lab](https://hacking-lab.com/) - Ethical hacking, computer network and security challenge platform.
+* [Hone Your Ninja Skills](https://honeyourskills.ninja/) - Web challenges starting from basic ones.
+* [IO](http://io.netgarage.org/) - Wargame for binary challenges.
+* [Microcorruption](https://microcorruption.com) - Embedded security CTF.
+* [Over The Wire](http://overthewire.org/wargames/) - Wargame maintained by OvertheWire Community.
+* [PWN Challenge](http://pwn.eonew.cn/) - Binary Exploitation Wargame.
+* [Pwnable.kr](http://pwnable.kr/) - Pwn Game.
+* [Pwnable.tw](https://pwnable.tw/) - Binary wargame.
+* [Pwnable.xyz](https://pwnable.xyz/) - Binary Exploitation Wargame.
+* [Reversin.kr](http://reversing.kr/) - Reversing challenge.
+* [Ringzer0Team](https://ringzer0team.com/) - Ringzer0 Team Online CTF.
+* [Root-Me](https://www.root-me.org/) - Hacking and Information Security learning platform.
+* [ROP Wargames](https://github.com/xelenonz/game) - ROP Wargames.
+* [SANS HHC](https://holidayhackchallenge.com/past-challenges/) - Challenges with a holiday theme
+  released annually and maintained by SANS.
+* [SmashTheStack](http://smashthestack.org/) - A variety of wargames maintained by the SmashTheStack Community.
+* [Viblo CTF](https://ctf.viblo.asia) - Various amazing CTF challenges, in many different categories. Has both Practice mode and Contest mode.
+* [W3Challs](https://w3challs.com) - A penetration testing training platform, which offers various computer challenges, in various categories.
+* [WebHacking](http://webhacking.kr) - Hacking challenges for web.
+
+
+
+
